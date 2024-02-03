@@ -1,6 +1,8 @@
  # pre requisite
  ```
     Download the chrome driver and place it on usr/bin directory
+    rename .envExample into .env
+    provide the username & password
  ```
 
  # install all dependencies
